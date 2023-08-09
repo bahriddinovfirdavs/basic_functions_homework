@@ -4,5 +4,5 @@
 
 # Increase the value of a to one and return.
 def main(a):
-      return str(a+1)
+      return (a+1)
 print(main(12))
