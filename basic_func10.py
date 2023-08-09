@@ -4,5 +4,5 @@
 
 # Return the negative value of a.
 def main(a):
-   return str(abs(a)*(-1))
+   return (abs(a)*(-1))
 print(main(12))
