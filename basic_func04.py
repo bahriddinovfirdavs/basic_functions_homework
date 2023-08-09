@@ -1,6 +1,5 @@
 # Create a function called main.
 def  main():
 # Return the value integer type.
-    l=int(input())
-    return l
+    return 1
 print(main())
